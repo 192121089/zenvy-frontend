@@ -234,7 +234,7 @@ const Products = () => {
   useEffect(() => {
     const fetchProducts = async () => {
       try {
-        const res = await axios.get("/api/products"); // uses proxy
+        const res = await axios.get("https://zenvy-backend.onrender.com/api/products"); // uses proxy
         console.log("Fetched products:", res.data); // debug log
         setProducts(res.data);
       } catch (err) {
