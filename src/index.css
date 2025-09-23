@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+/* Custom colors for Zenvy brand */
+:root {
+  --zenvyBlue: #4274B9;
+  --grey-light: #F3F4F6;
+  --white: #FFFFFF;
+}
