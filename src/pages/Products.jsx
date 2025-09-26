@@ -252,7 +252,7 @@ const Products = () => {
       {/* ✅ Notice banner */}
       <div className="w-full bg-blue-200 text-black-900 font-semibold text-center text-lg py-4 px-6 rounded-lg mb-6 shadow-md">
         💬 All product prices are negotiable.  
-        📲 Contact us on WhatsApp: <span className="text-blue-700">+91-XXXXXXXXXX</span>  
+        📲 Contact us on WhatsApp: <span className="text-blue-700">+91-9789914760</span>  
         for more details.
       </div>
 
