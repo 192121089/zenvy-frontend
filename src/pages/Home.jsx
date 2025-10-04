@@ -34,7 +34,7 @@ const Home = () => {
     <div className="p-6 bg-gray-100 min-h-screen">
       {/* Hero Section */}
       <div className="bg-[#4274B9] text-white rounded-lg p-12 mb-10 flex flex-col items-center shadow-lg">
-        <h1 className="text-4xl font-bold mb-4">Zenvy Store</h1>
+        <h1 className="text-4xl font-bold mb-4">Zenvy Collections</h1>
         <p className="text-lg text-center max-w-xl">
           Explore our exclusive collection of clothes, jewellery, and accessories. 
           Quality products, true colors, and negotiable prices – contact us to know more!
